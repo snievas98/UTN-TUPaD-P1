@@ -3,11 +3,11 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Bruselario, Sebastián *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-7 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Santiago Nicolas Nievas 
+- **Comisión:** Comision 18  
 
 ## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+**Descripción:** En la carpeta `Unidad2` que se encuentra dentro `02 Trabajo Colaborativo` se encuentra el archivo PDF correspondiente al trabajo práctico de esta unidad titulado `TP2 Git-Github Santiago Nicolas Nievas`
 
 📌 **Estructura del repositorio:**  
 - Cada trabajo está organizado en carpetas individuales.  
