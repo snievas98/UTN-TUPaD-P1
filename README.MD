@@ -7,7 +7,7 @@
 - **Comisión:** Comision 18  
 
 ## 📂 Descripción del Repositorio  
-**Descripción:** En este repositorio se encuentran los archivos PDF o .PY correspondiente a cada trabajo práctico de todas las unidades.
+**Descripción:** En este repositorio se encuentran los archivos PDF o (`.py`) correspondiente a cada trabajo práctico de todas las unidades.
 
 📌 **Estructura del repositorio:**  
 - Cada trabajo está organizado en carpetas individuales.  
