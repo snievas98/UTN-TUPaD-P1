@@ -1,3 +1,5 @@
+import time
+
 def selection_sort(lista):
     for i in range(len(lista)):
         min_idx = i
@@ -7,5 +9,8 @@ def selection_sort(lista):
         lista[i], lista[min_idx] = lista[min_idx], lista[i]
 
 lista = [64, 25, 12, 22, 11]
+start = time.time()
 selection_sort(lista)
-print("Selection Sort:", lista)  # Output: [11, 12, 22, 25, 64]
+end = time.time()
+print("Selection Sort:", lista)
+print("Tiempo de ejecución:", end - start, "segundos")

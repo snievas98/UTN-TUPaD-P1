@@ -1,3 +1,5 @@
+import time
+
 def busqueda_binaria(lista, valor):
     inicio = 0
     fin = len(lista) - 1
@@ -12,4 +14,8 @@ def busqueda_binaria(lista, valor):
     return -1
 
 lista = [1, 2, 3, 4, 7, 9]
-print("Búsqueda binaria:", busqueda_binaria(lista, 9))  # Output: 5
+start = time.time()
+resultado = busqueda_binaria(lista, 9)
+end = time.time()
+print("Búsqueda binaria:", resultado)
+print("Tiempo de ejecución:", end - start, "segundos")
